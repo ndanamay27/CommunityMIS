@@ -1,0 +1,160 @@
+body {
+  font-family: Arial ;
+  font-size: 20px;
+  background-image:url(green2.jpg);
+  background-size: 200%;
+}   
+table {
+  border-radius: 10px;
+}
+div{
+  display: inline-flex;
+}
+th,td{
+  text-align: center;
+}
+img{
+  height:90px;
+  width:100px; 
+  margin-left:-2%;
+}
+h1{
+  margin: 2% -15% 0px 1%;
+  color: lightgreen;
+  font-family: Tahoma, sans-serif;
+}
+h2{
+  color: lightgreen;
+  margin: -10% -5% 3% 1%;
+}
+table{
+  border-radius: 10px;
+  border-color: lightgreen;
+}
+.th1{
+  height: 50px;
+  border-width: 20px;
+  border-color: lightgreen; 
+  font-size: 40px;
+  color: white ;
+}
+.tr1{
+  height: 50px;
+  font-size: 20px;
+  color: white;
+}
+.tr2, .tr3, .tr4, .tr5, .tr6, .tr7, .tr8{
+  height: 35px;
+  font-size: 20px;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 5px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.back {
+  background-color: lightgreen;
+  color: black;
+  float: left;
+  margin-left: 1%;
+  margin-top: -40%;
+  border-radius: 10px;
+}
+
+.aubody{
+  background-image: url(green2.jpg);
+  background-size: 200%;
+}
+.aulogo{
+  height: 90px;
+  width: 90px;
+  margin-top: 0%;
+  margin-left: 10%;
+}
+h5{
+  color: lightgreen;
+  margin-top: 3%;
+  margin-left: -37%;
+  margin-right: 10%;
+
+}
+
+.auh1{
+  margin: 7% 5% -5% 10%;
+  margin-left: 1%;
+  margin-right: 11%;
+  color: white;
+  font-family: Tahoma, sans-serif;
+}
+p{
+  color: white;
+  text-align: justify;
+  margin-top: 3%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.pgraph{
+  color: white;
+  text-align: justify;
+  margin-left: 5%;
+  margin-right: 5%;
+
+}
+
+div a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 10px;
+}
+
+div a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.auback{
+  background-color: lightgreen;
+  color: black;
+  float: right;
+  margin:-90% 60% 40% 1950% ;
+  border-radius: 10px
+}
+
+.imgau{
+  margin-top: 3%;
+  float: left;
+  margin-left: 5%;
+  height: 30%;
+  width: 45%;
+  border: 5px solid lightgreen;
+
+
+}
+.footer{
+  position: absolute;
+  left: 0;
+  bottom: -30%;
+  height: 10%;
+  width: 98.5%;
+  background-color: lightgreen;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+#pfoot{
+  font-weight: bold;
+  color: darkgreen;
+  text-align: center;
+  margin: 0% -240% 0% 80%;
+}
+
+
+
+

@@ -1,0 +1,68 @@
+body {
+  font-family: Arial ;
+  font-size: 20px;
+  background-image:url(green2.jpg);
+  background-size: 200%;
+}   
+table {
+  border-radius: 10px;
+}
+div{
+  display: inline-flex;
+}
+th,td{
+  text-align: center;
+}
+img{
+  height:90px;
+  width:100px; 
+  margin-left:-2%;
+}
+h1{
+  margin: 2% -15% 0px 1%;
+  color: lightgreen;
+  font-family: Tahoma, sans-serif;
+}
+
+table{
+  border-radius: 10px;
+  border-color: lightgreen;
+}
+.col1{
+  height: 50px;
+  border-width: 20px;
+  border-color: lightgreen; 
+  font-size: 40px;
+  color: white ;
+  column-width: 50%;
+}
+.row1{
+  height: 50px;
+  font-size: 20px;
+  color: white;
+}
+.row2, .row3, .row4, .row5, .row6, .row7, .row8{
+  height: 35px;
+  font-size: 20px;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px 5px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.back {
+  background-color: lightgreen;
+  color: black;
+  float: left;
+  margin-left: 1%;
+  margin-top: -37%;
+  border-radius: 10px;
+}
